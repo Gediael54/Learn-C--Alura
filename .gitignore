@@ -1,4 +1,6 @@
+# Configuracoes locais do Claude Code
 /.claude
+
+# Saidas de build do .NET (geradas automaticamente, nao versionar)
 /bin
-/Learn C# Alura.csproj
 /obj
